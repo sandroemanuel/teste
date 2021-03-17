@@ -1,2 +1,0 @@
-# teste
-Learning Git-hib
